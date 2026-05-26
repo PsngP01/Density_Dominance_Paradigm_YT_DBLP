@@ -1,4 +1,4 @@
-# Density-Dominance-Paradigim_Youtube
+# Density-Dominance-Paradigim_Youtube_DBLP
 Python implementation of the Influencer Matrix and IC diffusion simulation from 'The Density-Dominance Paradigm' (IEEE TNSE).
 # The Density-Dominance Paradigm: Influencer Matrix Framework
 
